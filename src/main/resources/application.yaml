@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Simple calculator
+  http:
+    encoding:
+      charset: UTF=8
+      enabled: true
+
+server:
+  port: 8080
+
+
